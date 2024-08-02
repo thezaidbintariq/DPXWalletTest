@@ -19,7 +19,7 @@ const i18n_en = {
     settings: {
         language: {
             title: 'Language',
-            description: 'Set your prefered language',
+            description: '',
         },
         copyright: '',
     },
