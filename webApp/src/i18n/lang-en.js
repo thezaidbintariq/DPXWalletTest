@@ -21,7 +21,7 @@ const i18n_en = {
             title: 'Language',
             description: 'Set your prefered language',
         },
-        copyright: 'Developed by Erfan Mola using TeleVue',
+        copyright: '',
     },
     wallet: {
         title: {
