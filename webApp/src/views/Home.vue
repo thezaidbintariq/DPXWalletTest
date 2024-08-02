@@ -34,7 +34,7 @@
     const wallet = ref(Utils.GetWallet('wallet'));
 
     let currencies = {
-        dpx: 'TRX',
+        trx: 'TRX',
         usdt: 'USDT',
     };
 

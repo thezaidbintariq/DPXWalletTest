@@ -19,9 +19,9 @@ const i18n_fa = {
     settings: {
         language: {
             title: 'زبان',
-            description: 'زبان مورد نظر خود را تنظیم کنید',
+            description: '',
         },
-        copyright: 'توسعه یافته توسط عرفان مولا با استفاده از TeleVue',
+        copyright: '',
     },
     wallet: {
         title: {

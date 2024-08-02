@@ -19,9 +19,9 @@ const i18n_tr = {
     settings: {
         language: {
             title: 'Dil',
-            description: 'Tercih ettiğiniz dili ayarlayın',
+            description: '',
         },
-        copyright: 'TeleVue kullanılarak geliştirilmiştir, Erfan Mola tarafından',
+        copyright: '',
     },
     wallet: {
         title: {

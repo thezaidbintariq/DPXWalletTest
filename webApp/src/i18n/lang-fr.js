@@ -19,9 +19,9 @@ const i18n_fr = {
     settings: {
         language: {
             title: 'Langue',
-            description: 'Définissez votre langue préférée',
+            description: '',
         },
-        copyright: 'Développé par Erfan Mola en utilisant TeleVue',
+        copyright: '',
     },
     wallet: {
         title: {

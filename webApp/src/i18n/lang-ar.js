@@ -19,9 +19,9 @@ const i18n_ar = {
     settings: {
         language: {
             title: 'اللغة',
-            description: 'اختر لغتك المفضلة',
+            description: '',
         },
-        copyright: 'تطوير بواسطة عرفان مولا باستخدام TeleVue',
+        copyright: '',
     },
     wallet: {
         title: {
