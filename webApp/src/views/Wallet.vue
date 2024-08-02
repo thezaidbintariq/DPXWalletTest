@@ -219,7 +219,7 @@
             </div>
 
             <button @click="Submit" :class="['button', 'button-progress', `button-progress-${status}`]"
-                :disabled="(status !== 'normal') && (route.name !== 'wallet' || (hasChanged)))">
+                :disabled="(status !== 'normal') && (route.name !== 'wallet' || (hasChanged))">
                 <i :class="`${route.name === 'wallet' ? 'icon-save' : 'icon-plus-square'}`"></i>
                 <span>{{ route.name === 'wallet' ? $t('wallet.save_wallet') : $t('wallet.import_wallet') }}</span>
             </button>
