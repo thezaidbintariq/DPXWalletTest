@@ -1,6 +1,6 @@
 # Setting Up the BackEnd
 
-After reading the [Technologies used in backend](/technologies-used#backend) and [Setting up the FrontEnd](/setting-up-frontend), We are ready to continue the setup, build and deployment process of the DPXWallet's BackEnd.
+After reading the [Technologies used in backend](/technologies-used#backend) and [Setting up the FrontEnd](/setting-up-frontend), We are ready to continue the setup, build and deployment process of the TRXWallet's BackEnd.
 
 We obviously need `PHP` to be installed and some basic knowledge of `Laravel` and experience of deploying Laravel projects.
 

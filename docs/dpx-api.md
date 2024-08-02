@@ -1,8 +1,8 @@
-# 💎 DPX API
-DPX API is an application programming interface for interacting with the DPX System
+# 💎 TRX API
+TRX API is an application programming interface for interacting with the TRX System
 
 ## 🔰 Endpoint
-The endpoint of DPX API is accessible at https://dpx.developix.ir/api. If deployed on a custom server, it could be accessed at `ADDRESS/api`.
+The endpoint of TRX API is accessible at https://trx.developix.ir/api. If deployed on a custom server, it could be accessed at `ADDRESS/api`.
 
 ## ⚙️ Supported Methods
 Generally speaking, the API accepts `GET` or `POST` http methods based on the action you are requesting, some actions accept both methods that are specified below, but no action accepts any other method than `POST` and `GET`.  

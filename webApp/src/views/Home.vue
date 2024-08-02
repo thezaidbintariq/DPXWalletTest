@@ -112,7 +112,7 @@
 
                 <ul>
                     <li :class="[ 'w500-dots-1', currency === 'usdt' ? 'active' : '' ]" @click="setCurrency('usdt')">USDT</li>
-                    <li :class="[ 'w500-dots-1', currency === 'dpx' ? 'active' : '' ]" @click="setCurrency('dpx')">DPX</li>
+                    <li :class="[ 'w500-dots-1', currency === 'dpx' ? 'active' : '' ]" @click="setCurrency('dpx')">TRX</li>
                 </ul>
             </div>
 

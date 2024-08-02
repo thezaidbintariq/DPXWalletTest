@@ -59,7 +59,7 @@ This variable specifies the fee of transactions, just like `FEE` does in the bac
 ### TeleVue
 `VITE_HEX_HMAC_SIGNATURE` is an optional value that specifies the HMAC Signature of your bot token, used for client-side validation of the the webApp client by `AuthProvider` of TeleVue. [You can read more about it and how to generate it here](https://erfanmola.github.io/TeleVue/?path=/docs/providers-authprovider--docs#hex_hmac_signature).
 
-If not specified or empty, DPXWallet ignores the `AuthProvider` of TeleVue.
+If not specified or empty, TRXWallet ignores the `AuthProvider` of TeleVue.
 
 ```shell
 VITE_HEX_HMAC_SIGNATURE= hmac signature of your bot token

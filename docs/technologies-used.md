@@ -1,5 +1,5 @@
 # Technologies Used
-In this section, we are going to describe every technology used in both frontend and backend of the project. We are going to explain the usage of each tool in the DPXWallet.
+In this section, we are going to describe every technology used in both frontend and backend of the project. We are going to explain the usage of each tool in the TRXWallet.
 
 ## FrontEnd
 Our aim in the frontend side of the project is to provide a modern development experience while keeping the project understandable and maintainable. That's why we chose the technologies and tools below.
@@ -32,10 +32,10 @@ We use [qr-code-styling package](https://www.npmjs.com/package/qr-code-styling) 
 We developed an exclusive Telegram UI Library for VueJS, just for the purpose of this WebApp and Telegram Mini App Contest. If you are both a Telegram Enjoyer and VueJS's fiancé, then you should try [TeleVue](https://github.com/erfanmola/TeleVue) for you next TWA (Telegram Web App), I know they call it MiniApps, but they are wrong, yeah Telegram, you are wrong.
 
 ### i18n
-We use the i18n standard for defining our locales and making DPXWallet multilingual.
+We use the i18n standard for defining our locales and making TRXWallet multilingual.
 
 ::: tip
-We are welcoming translators to help us translate the DPXWallet to different languages, you can start from `webApp/src/i18n` directory.
+We are welcoming translators to help us translate the TRXWallet to different languages, you can start from `webApp/src/i18n` directory.
 :::
 
 ::: info

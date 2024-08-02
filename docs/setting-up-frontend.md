@@ -1,6 +1,6 @@
 # Setting Up the FrontEnd
 
-After [Cloning the project](/getting-started#cloning-the-project) and reading the [Technologies used in frontend](/technologies-used#frontend), We are ready to continue the setup, build and deployment process of the DPXWallet.
+After [Cloning the project](/getting-started#cloning-the-project) and reading the [Technologies used in frontend](/technologies-used#frontend), We are ready to continue the setup, build and deployment process of the TRXWallet.
 
 Firstly, we have to change our Working Directory to `webApp` folder, since it's the folder containing our frontend code:
 ```shell

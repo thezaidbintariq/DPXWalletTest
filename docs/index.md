@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "DPXWallet"
+  name: "TRXWallet"
   text: "Documentations & Setup Guide"
   tagline: Feature-Rich demonstration of a dummy Wallet app built in Telegram
   image:
-    src: https://raw.githubusercontent.com/erfanmola/DPXWallet/master/docs/DPXWallet.png
-    alt: DPXWallet
+    src: https://raw.githubusercontent.com/erfanmola/TRXWallet/master/docs/TRXWallet.png
+    alt: TRXWallet
   actions:
     - theme: brand
       text: View WebApp
-      link: https://t.me/DPXWalletBot
+      link: https://t.me/TRXWalletBot
     - theme: alt
       text: Getting Started
       link: /getting-started
